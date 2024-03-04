@@ -1,2 +1,2 @@
 # PythonProject
-Project for Python
+Playground  for Python
